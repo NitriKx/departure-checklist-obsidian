@@ -1,0 +1,9 @@
+{
+	"id": "departure-checklist",
+	"name": "Departure checklist",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Answers a few questions about your trip and generates a tailored checklist note before you leave home.",
+	"author": "Benoit Sauvere",
+	"isDesktopOnly": false
+}
